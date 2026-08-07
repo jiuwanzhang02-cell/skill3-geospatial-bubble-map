@@ -1,0 +1,4 @@
+interface:
+  display_name: "地理气泡散点图"
+  short_description: "从多种地学数据格式创建全球或区域出版级比例圆地图和图例"
+  default_prompt: "使用 $plot-geospatial-bubble-map 根据经纬度和数值绘制出版级全球气泡地图。"
